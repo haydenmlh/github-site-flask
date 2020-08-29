@@ -1,2 +1,2 @@
-# haydenmlh.github.io
-My Website
+# Flask website
+A personal project to practice web development using Flask.
